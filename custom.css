@@ -1,0 +1,32 @@
+body {
+	text-align: center;
+	background-color: #FFFDD0;
+	font-family: Verdana, serif;
+}
+
+#animal-form {
+	padding: 10px;
+}
+
+#fatanimal-results-title {
+	font-weight: bold;
+	margin: 20px;
+}
+
+#footnote {
+	margin: 10px;
+	font-size: 8pt;
+}
+
+.container-fatanimals {
+    min-height: 1%;
+    height: 1%;
+    height: auto !important;
+    width: 940px;
+    margin: 20px auto 0 auto;
+    text-align: left;
+}
+
+#fatanimal-results {
+	display: inline;
+}
